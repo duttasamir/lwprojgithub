@@ -1,4 +1,4 @@
 date
 cal
 echo how ru 
-echo GURHUB TRAINING
+echo GITHUB TRAINING
